@@ -1,2 +1,4 @@
-# demo
-CS102 Demo
+# demo repository
+## CS102 Demo
+- First repository!
+- Test
